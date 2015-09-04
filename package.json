@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "body-parser": "^1",
+    "es6-shim": "^0.33.3",
+    "express": "^4",
+    "jade": "^1",
+    "jade-babel": "^5.0.0"
+  }, 
+  
+  "scripts": {
+    "babel-node": "babel-node --stage 0 --ignore='foo|bar|baz'"
+  }
+}
+
+
